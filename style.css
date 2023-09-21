@@ -18,7 +18,7 @@ body {
 .bar_top .bar_progress {
     width: 0%;
     height: 100%;
-    background-color: rgb(197, 6, 15);
+    background-color: rgb(176, 13, 252);
 }
 .section {
     display: flex;
@@ -29,8 +29,8 @@ body {
     font-weight: 500;
 }
 .section_one {
-    background-color: #b2e2f2;
-    color: #71b1c6;
+    background-color: #fdf9c4;
+    color: #dfda95;
 }
 .section_two {
     background-color: #d8f8e1;
@@ -41,6 +41,6 @@ body {
     color: #d7af6f;
 }
 .section_four {
-    background-color: #fdf9c4;
-    color: #dfda95;
+    background-color: #b2e2f2;
+    color: #71b1c6;
 }
